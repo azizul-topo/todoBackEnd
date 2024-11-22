@@ -20,6 +20,7 @@
   },
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "pm2 start index.js --name taskmaster_server"
+
+    "start": "node index.js --name taskmaster_server"
   }
 }

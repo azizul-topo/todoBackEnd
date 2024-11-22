@@ -16,8 +16,10 @@ const allowedOrigins = [
   "http://localhost:3000",
   "http://localhost:3001",
   "http://localhost:3002",
+  "https://todolisttopujhilam.netlify.app/#/auth",
+  "https://todolisttopujhilam.netlify.app",
   "https://gj43d6f4-3000.inc1.devtunnels.ms",
-   "https://gj43d6f4-3000.inc1.devtunnels.ms/"
+   "https://gj43d6f4-3000.inc1.devtunnels.ms/#/auth"
 ];
 // app.use(
 //   cors({
